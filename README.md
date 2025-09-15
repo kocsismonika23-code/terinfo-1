@@ -1,2 +1,2 @@
-# terinfo-1
+# Térinformatikai
 2025 09 15
